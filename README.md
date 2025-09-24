@@ -1,2 +1,2 @@
-# RRMS-Site-Data.github.io
+# RRMS-Site-Data
 Remote Roblox Management System data for the official site.
