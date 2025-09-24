@@ -1,4 +1,4 @@
-Thanks to the following people for helping make this project!
+# Thanks to the following people for helping make this project!
 
-UI/VFX:
+UI/VFX:/n
   bexan
